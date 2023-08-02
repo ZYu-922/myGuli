@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="service_edu" />
         <module name="service_acl" />
+        <module name="service_zyu" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="service" target="8" />
       <module name="service_acl" target="8" />
       <module name="service_edu" target="8" />
+      <module name="service_zyu" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -24,6 +26,7 @@
       <module name="service" options="-parameters" />
       <module name="service_acl" options="-parameters" />
       <module name="service_edu" options="-parameters" />
+      <module name="service_zyu" options="-parameters" />
     </option>
   </component>
 </project>

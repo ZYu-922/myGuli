@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c018a29-dd04-4913-8c28-5c9a0628de90" name="Default Changelist" comment="" />
+    <list default="true" id="7c018a29-dd04-4913-8c28-5c9a0628de90" name="Default Changelist" comment="hello git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +68,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.AclApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodeGenerator.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="service_acl" />
       <extension name="coverage">
@@ -165,7 +179,7 @@
       <workItem from="1690445149580" duration="8397000" />
       <workItem from="1690790029785" duration="636000" />
       <workItem from="1690804432719" duration="1168000" />
-      <workItem from="1690959266377" duration="202000" />
+      <workItem from="1690959266377" duration="961000" />
     </task>
     <servers />
   </component>
@@ -182,6 +196,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello git" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello git" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
